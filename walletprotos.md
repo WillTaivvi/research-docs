@@ -6,9 +6,9 @@ Alethea- Ai NFT
 
 Alliance- *
 
-Alpha-
+Alpha- mobile only
 
-Atomic-
+Atomic- staking, non custodial, mostly open source, FIAT
 
 Blox- open source ETH staking, non custodial
 
