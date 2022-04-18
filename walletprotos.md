@@ -10,7 +10,7 @@
 
 Alpha- mobile only
 
-*Atomic- staking, non custodial, mostly open source, FIAT, IPFS browser app
+*Atomic- staking, non custodial, mostly open source, FIAT
 
 *Blox- open source ETH staking, non custodial
 
