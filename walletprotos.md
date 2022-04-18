@@ -56,11 +56,11 @@ Makerdao-
 
 Math-
 
-*MEW- 
+*MEW- open source, non custodial, FIAT, browser 
 
 MtPelerin-
 
-*MyCrypto-
+*MyCrypto- MEW fork
 
 *NEAR-
 
@@ -70,7 +70,7 @@ NEXO-
 
 Okcoin-
 
-ORBS-
+ORBS- Oasis network
 
 *p2pwallet-
 
