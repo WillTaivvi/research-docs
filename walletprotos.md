@@ -66,7 +66,7 @@ MtPelerin-
 
 NEXO-
 
-*Oasis- private smart contracts, split layer, scalability, open source, staking
+*Oasis- private smart contracts, split layer, paratime scaling, open source, staking
 
 Okcoin-
 
