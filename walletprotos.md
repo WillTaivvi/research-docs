@@ -1,18 +1,18 @@
  *explore deeper, useful features or open source 
 
-AAVE Protocol – Defi IPFS Dao multichain walletconnect
+*AAVE Protocol – Defi IPFS Dao multichain walletconnect
 
-Alchemy – nodes etc
+*Alchemy – nodes etc
 
-Alethea- Ai NFT
+*Alethea- Ai NFT
 
-Alliance- *
+*Alliance- 
 
 Alpha- mobile only
 
-Atomic- staking, non custodial, mostly open source, FIAT
+*Atomic- staking, non custodial, mostly open source, FIAT
 
-Blox- open source ETH staking, non custodial
+*Blox- open source ETH staking, non custodial
 
 Botlibre- opensource Ai
 
@@ -22,7 +22,7 @@ Burner-
 
 Celcius- lending FIAT
 
-Chainlink - decentralized oracle, layer3?
+*Chainlink - decentralized oracle, layer3?
 
 Coinomi – FIAT not
 
@@ -44,7 +44,7 @@ Fearless- mobile only
 
 Fortmatic- AWS encryption/de key signing
 
-Gnosis-
+*Gnosis-
 
 Guarda- not open source
 
@@ -56,23 +56,23 @@ Makerdao-
 
 Math-
 
-MEW- *
+*MEW- 
 
 MtPelerin-
 
-MyCrypto-
+*MyCrypto-
 
-NEAR-
+*NEAR-
 
 NEXO-
 
-Oasis- *
+*Oasis- 
 
 Okcoin-
 
 ORBS-
 
-p2pwallet-
+*p2pwallet-
 
 Pillar-
 
@@ -80,20 +80,20 @@ Portis- dns 51
 
 Rainbow-
 
-SSVnet- * 
+*SSVnet- 
 
 Status- mobile
 
-TheGraph- *
+*TheGraph- 
 
-Thor- * not 100% up
+*Thor-  not 100% up
 
 Torus- email pass secured only?
 
 Trust- mobile – pulled from Apple store
 
-Unstoppable Domains- *
+*Unstoppable Domains- 
 
 Venly-
 
-Walletconnect- *
+*Walletconnect- 
