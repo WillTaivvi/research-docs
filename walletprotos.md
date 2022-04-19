@@ -70,6 +70,8 @@ MtPelerin-
 
 *NEAR-
 
+nerdwallet- 
+
 NEXO-
 
 *Oasis- private smart contracts, split layer, paratime scaling, open source, staking
