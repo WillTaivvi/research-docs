@@ -16,7 +16,7 @@ Alpha- mobile only
 
 Botlibre- opensource Ai
 
-Bread- mobile wallet open source FIAT
+Bread- mobile wallet, open source, FIAT
 
 Burner-
 
@@ -24,7 +24,7 @@ Celcius- lending FIAT
 
 *Chainlink - decentralized oracle, layer3?
 
-Coinomi – FIAT not
+Coinomi – not open source, FIAT, oldest multi-chain wallet, desktop and mobile, wallettconnect
 
 Coin98 -
 
