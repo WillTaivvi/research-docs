@@ -70,7 +70,7 @@ MtPelerin-
 
 *NEAR-
 
-nerdwallet- 
+nerdwallet- P2P
 
 NEXO-
 
