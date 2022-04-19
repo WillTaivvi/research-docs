@@ -1,6 +1,6 @@
  *explore deeper, useful features or open source 
 
-*AAVE Protocol – Defi IPFS Dao multichain walletconnect
+*AAVE Protocol – Defi IPFS browser, dao,multichain, walletconnect
 
 *Alchemy – nodes etc
 
