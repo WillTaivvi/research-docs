@@ -38,6 +38,8 @@ Defisaver-
 
 Dos-
 
+DSRV- distributed blockchain infrastructure, simplifyting
+
 Fantom-
 
 Fearless- mobile only
@@ -51,6 +53,8 @@ GPT-3- neural network
 Guarda- not open source
 
 Imtoken- mobile
+
+InfStones- decentralized blockchain infrastructure, integrated platform
 
 Loopring-
 
