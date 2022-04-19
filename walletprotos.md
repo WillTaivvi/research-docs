@@ -80,7 +80,7 @@ Okcoin-
 
 ORBS- Oasis network
 
-*p2pwallet-
+*P2Pwallet-
 
 Pillar-
 
