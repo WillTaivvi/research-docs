@@ -44,6 +44,8 @@ Fearless- mobile only
 
 Fortmatic- AWS encryption/de key signing
 
+GPT-3- neural network
+
 *Gnosis-
 
 Guarda- not open source
