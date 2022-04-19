@@ -6,7 +6,7 @@
 
 *Alethea- Ai NFT
 
-*Alliance- trustless KYC
+*Alliance- (early) trustless KYC, bridging with traditional finance, cross-chain defi terminal
 
 Alpha- mobile only
 
