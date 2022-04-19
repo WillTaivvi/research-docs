@@ -82,7 +82,7 @@ Portis- dns 51
 
 Rainbow-
 
-*SSVnet- secret shared validator network
+*SSVnet- secret shared validator network, non-custodial decentralized staking
 
 Status- mobile
 
