@@ -105,3 +105,5 @@ Trust- mobile – pulled from Apple store
 Venly-
 
 *Walletconnect- 
+
+XDefi- not open source, non-custodial, decentralized, multichain
