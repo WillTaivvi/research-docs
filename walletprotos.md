@@ -62,7 +62,7 @@ Math-
 
 MtPelerin-
 
-*MyCrypto- MEW fork
+*MyCrypto- MEW fork, working Ropsten faucet
 
 *NEAR-
 
