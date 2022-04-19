@@ -6,7 +6,7 @@
 
 *Alethea- Ai NFT
 
-*Alliance- 
+*Alliance- trustless KYC
 
 Alpha- mobile only
 
