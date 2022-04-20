@@ -54,7 +54,7 @@ Fortmatic- AWS encryption/de key signing
 
 GPT-3- neural network
 
-*Gnosis- mobile only?
+*Gnosis- 
 
 Guarda- not open source
 
