@@ -1,5 +1,7 @@
  *explore deeper, useful features or open source 
 
+1Inch- No US
+
 *AAVE Protocol – Defi IPFS browser, dao,multichain, walletconnect
 
 *Alchemy – nodes etc
@@ -39,6 +41,8 @@ Defisaver-
 Dos-
 
 DSRV- distributed blockchain infrastructure, simplifyting
+
+Energy Web Token- 
 
 Fantom-
 
