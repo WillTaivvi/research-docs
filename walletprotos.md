@@ -106,6 +106,8 @@ Rainbow- WC
 
 Status- mobile
 
+Substrate- multichain infrastructure,decentralized, governance
+
 *TheGraph- 
 
 *Thor-  not 100% up
