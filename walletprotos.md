@@ -34,6 +34,8 @@ Compound-
 
 Core-
 
+CYBAVO- WC
+
 Dappradar-
 
 Defisaver-
@@ -42,7 +44,7 @@ Dos-
 
 DSRV- distributed blockchain infrastructure, simplifyting
 
-Energy Web Token- 
+*Energy Web Token- EW-DOS
 
 Fantom-
 
@@ -56,23 +58,29 @@ GPT-3- neural network
 
 Guarda- not open source
 
-Imtoken- mobile
+Imtoken- mobile, WC
 
 InfStones- decentralized blockchain infrastructure, integrated platform
+
+Infinity wallet- multi platform, multi chain, WC, not open source
 
 Loopring-
 
 Makerdao-
 
-Math-
+Math- WC
 
 *MEW- open source, non custodial, FIAT, browser 
+
+Minerva- WC
 
 MtPelerin-
 
 *MyCrypto- MEW fork, working Ropsten faucet
 
 *NEAR-
+
+NEON- 
 
 nerdwallet- P2P, centralized
 
@@ -84,13 +92,15 @@ Okcoin-
 
 ORBS- Oasis network
 
+Pastel- native p2p, 
+
 *P2Pwallet-
 
-Pillar-
+Pillar- WC
 
 Portis- dns 51
 
-Rainbow-
+Rainbow- WC
 
 *SSVnet- secret shared validator network, non-custodial decentralized staking
 
@@ -111,3 +121,5 @@ Venly-
 *Walletconnect- 
 
 XDefi- not open source, non-custodial, decentralized, multichain
+
+Zap- 
