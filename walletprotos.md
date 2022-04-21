@@ -78,7 +78,7 @@ MtPelerin-
 
 *MyCrypto- MEW fork, working Ropsten faucet
 
-*NEAR-
+*NEAR- dynamic resharding
 
 NEON- 
 
