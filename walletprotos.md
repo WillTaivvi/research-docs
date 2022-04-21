@@ -66,9 +66,11 @@ Infinity wallet- multi platform, multi chain, WC, not open source
 
 Loopring-
 
+Lossless-
+
 Makerdao-
 
-Math- WC
+Math- WC substrate
 
 *MEW- open source, non custodial, FIAT, browser 
 
